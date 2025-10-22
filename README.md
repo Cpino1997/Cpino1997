@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpino1997" alt="cpino1997" /></a> </p>
 
-- 🔭 Actualmente trabajo en [La Universidad de Chile](https://www.uchile.cl)
-
-- 👯 Proyecto colaborativo: [AhorraMax](https://www.ahorra-max.cl)
-
-- 🤝 Buscando colaboradores para [AhorraMax](https://www.ahorra-max.cl)
+- 🔭 Actualmente soy analista de sistemas en [La Universidad de Chile](https://www.uchile.cl)
+- 👯 Mi Proyecto Personal es [AhorraMax, donde Comparar es Ahorrar](https://www.ahorramax.cl)
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
